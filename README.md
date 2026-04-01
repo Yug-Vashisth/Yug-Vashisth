@@ -1,4 +1,4 @@
-## hey, i'm yug 👋
+## Yug Vashisth
 
 I'm a Software Engineering student at McMaster University who likes building things that are useful, polished, and technically solid.
 
@@ -69,4 +69,3 @@ I like projects where software actually does something meaningful — saves time
 - projects that combine strong engineering with real impact  
 
 ## 📊 github stats
-Vashisth&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
