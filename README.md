@@ -1,4 +1,4 @@
-## 💻Yug Vashisth
+## 💻 Yug Vashisth
 
 I'm a Software Engineering student at McMaster University who likes building things that are useful, polished, and technically solid.
 
