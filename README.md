@@ -69,7 +69,4 @@ I like projects where software actually does something meaningful — saves time
 - projects that combine strong engineering with real impact  
 
 ## 📊 github stats
-
-![](https://github-readme-stats.vercel.app/api?username=Yug-Vashisth&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Yug-Vashisth&theme=tokyonight&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yug-Vashisth&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+Vashisth&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
