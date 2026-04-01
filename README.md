@@ -4,7 +4,7 @@ I'm a Software Engineering student at McMaster University who likes building thi
 
 Right now, most of my work sits at the intersection of **data**, **AI**, **backend systems**, and **embedded software**. I've worked on everything from enterprise ETL pipelines and reporting automation, to LLM-powered tools, to real-time control systems for exoskeleton tech.
 
-I like projects where software actually does something meaningful — saves time, improves decisions, or powers something in the real world.
+I like projects where software actually does something meaningful, saves time, improves decisions, or powers something in the real world.
 
 ## 🌐 connect with me
 
